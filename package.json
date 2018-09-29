@@ -2,7 +2,6 @@
   "name": "packing-rollup",
   "version": "1.0.0",
   "description": "Simple Boilerplate for package react components as modules using rollup",
-  "repository": "https://github.com/GerardoGallegos/react-rollup-boilerplate.git",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -69,5 +68,13 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoGallegos/react-rollup-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GerardoGallegos/react-rollup-boilerplate/issues"
+  },
+  "homepage": "https://github.com/GerardoGallegos/react-rollup-boilerplate#readme"
 }
